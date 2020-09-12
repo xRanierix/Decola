@@ -1,27 +1,28 @@
 section{
-    border: 2px solid rgb(116, 109, 19);
+    border: 2px solid rgb(30, 31, 110);
     background-color: rgb(30, 31, 110);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 25px;
 }
-
-h1{
+    
+h3{
     color:whitesmoke;
     text-align: center;
 }   
-
-h2{
-    color:yellow;
-}
 
 h5{
     text-align: center;
     color: white;
 }
 
+h6{
+    text-align: center;
+    color: white;
+}
+
 #titulo{
     text-align: center;
-    font-size:200%;
+    font-size:250%;
     font-weight: bold;
 
 }
@@ -29,45 +30,6 @@ h5{
 article{
     border: 2px solid black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-article p#descricao{
-    margin: 2%;
-    font-style: italic;
-    text-align: center;
-}
-
-article p#vagas, .pagamento ,.inscricao{
-    font-weight: bold;
-    text-align: center  ;
-}
-
-#vagas{
-    color:red;
-    font-size: 250%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.pagamento{
-    color: green;
-    font-size: 200%;
-}
-
-.borda{
-    padding: 2%;
-    border: 3px dashed black;
-    text-align: center;
-    font-size: 250%;
-    color: orange;
-    margin: 5% 25%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-
-}
-
-article  h3 {
-    border: 2px solid rgb(175, 175, 175);
-    background-color: rgb(108, 109, 182);
-    color: rgb(233, 230, 230);
 }
 
 .rodape{    
