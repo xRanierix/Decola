@@ -4,12 +4,8 @@ section{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 25px;
 }
-    
-.col-sm{
-    font-size: calc(1rem + 4vw)
-}
 
-h3{
+h1{
     color:whitesmoke;
     text-align: center;
 }   
