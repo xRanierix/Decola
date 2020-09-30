@@ -2,7 +2,8 @@ div {
   text-align: center;
 }
 
-.container
+.container-md
 {
   text-align: center;
+  border-radius: 12px;
 }
